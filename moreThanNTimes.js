@@ -10,7 +10,7 @@ function deleteNth(arr, n) {
     const numbers = {}
     const newArr = []
     
-    for (let i = 0; i < arrLength; i++) {
+    for (let i = 0; i < arr.lenght; i++) {
         const num = arr[i];
         if (numbers[num]) {
             numbers[num] += 1
