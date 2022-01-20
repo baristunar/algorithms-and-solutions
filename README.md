@@ -2,6 +2,9 @@
 
 Algorithms that I solved to improve myself on platforms such as Codewars and hackerrank.
 
+## Goal
+
+My learning goal is problem solving patterns and Time Complexity.
 ## Resources
 
 You can reach such algorithm problems through the following resources
