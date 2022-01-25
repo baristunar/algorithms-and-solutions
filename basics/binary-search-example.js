@@ -11,9 +11,7 @@ const binarySearch = (arr, value) => {
     middle = Math.floor((left + right) / 2)
   }
 
-  arr[middle] === value ? middle : -1;
-
-
+  return arr[middle] === value ? middle : -1;
 }
 
 console.log(binarySearch([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 4))
